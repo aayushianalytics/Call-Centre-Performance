@@ -6,10 +6,9 @@ Call centers handle large volumes of customer interactions every day, making it 
 
 
 ## 🛠 Tech Stack
-Microsoft Excel – Used to build the interactive dashboard and perform overall data analysis.
-Pivot Tables – Used to summarize and analyze large volumes of call centre data efficiently.
-Power Query – Used for cleaning and transforming raw customer interaction data.
-Data Visualization – Used to create charts and performance visuals for easier analysis and reporting.
+**Microsoft Excel** – Used to build the interactive dashboard and perform overall data analysis.
+**Pivot Tables** – Used to summarize and analyze large volumes of call centre data efficiently.
+**Power Query** – Used for cleaning and transforming raw customer interaction data.
 
 
 ## 📂 Dataset
@@ -17,7 +16,6 @@ The dataset includes customer call records, agent performance details, call dura
 
 
 ## 📋 Features
-
 ### ⚠️ Business Problem
 Managing customer support data manually across multiple agents and interactions can become difficult and time-consuming. It becomes challenging to track customer satisfaction, identify performance gaps, and monitor overall operational efficiency effectively.
 
